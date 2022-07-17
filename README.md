@@ -9,5 +9,6 @@ Este projeto foi desenvolvido por meio da aula de React na plataforma Alura. Con
 - Sass
 <br/>
 
-![image](https://user-images.githubusercontent.com/60719786/179399119-ec13d651-a694-4abe-a753-68f9f5e2ef5f.png)
+![image](https://user-images.githubusercontent.com/60719786/179428156-8bfa02b0-2331-426a-9f23-3252628c395a.png)
+
 
